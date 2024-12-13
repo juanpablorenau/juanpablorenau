@@ -1,8 +1,6 @@
 
 # Hi there! 👋 I'm Juan Pablo
 
-Welcome to my GitHub! I'm an Android developer.
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -26,18 +24,15 @@ Welcome to my GitHub! I'm an Android developer.
 ## 🌟 Notable Projects
 
 ### [NotePad](https://github.com/juanpablorenau/notepad)
-- **Description:** Briefly describe the project, its purpose, and any challenges solved.
-- **Tech Stack:** Highlight the main technologies used.
+- **Description:** NotePad is a note-taking app that combines the simplicity and funtionalities of the iOS Notes app with the power and customization capabilities of Android.
 
 ### [Pokedex](https://github.com/juanpablorenau/pokedex)
-- **Description:** Briefly describe the project, its purpose, and any challenges solved.
-- **Tech Stack:** Highlight the main technologies used.
+- **Description:** Pokedex is an Android application developed in Kotlin that consumes the PokeAPI to display a list of Pokemon and their details from the TV series.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/juan-pablo-renau-lópez-9a61a11bb)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:renaujuanpablo@example.com)
 
 ---
 
