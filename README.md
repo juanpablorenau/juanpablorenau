@@ -26,13 +26,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 
-## 🌟 Notable Projects
+## 🌟 Projects
 
 ### [NotePad](https://github.com/juanpablorenau/notepad)
-- **Description:** NotePad is a note-taking app that combines the simplicity and funtionalities of the iOS Notes app with the power and customization capabilities of Android.
+- NotePad is a note-taking app that combines the simplicity and funtionalities of the iOS Notes app with the power and customization capabilities of Android.
 
 ### [Pokedex](https://github.com/juanpablorenau/pokedex)
-- **Description:** Pokedex is an Android application developed in Kotlin that consumes the PokeAPI to display a list of Pokemon and their details from the TV series.
+- Pokedex is an Android application developed in Kotlin that consumes the PokeAPI to display a list of Pokemon and their details from the TV series.
 
 ## 🤝 Connect With Me
 
