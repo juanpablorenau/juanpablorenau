@@ -7,13 +7,18 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
-### Frameworks & Libraries
+### Fundamentals
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=flat-square)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-FF5722?style=flat-square)
 ![Room](https://img.shields.io/badge/-Room-FFCA28?style=flat-square)
+![DataStore](https://img.shields.io/badge/-Room-FFCA28?style=flat-square)
 ![Hilt](https://img.shields.io/badge/-Hilt-1A73E8?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
+![Flows](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
+![Animations](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
 
 ### Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
