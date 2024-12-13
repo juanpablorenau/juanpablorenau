@@ -1,15 +1,7 @@
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Juan Pablo
 
-Welcome to my GitHub! I'm an Android developer passionate about crafting intuitive and scalable mobile applications. 🚀
-
-## 👨‍💻 About Me
-
-- 💼 **Current Role:** Freelance Android Developer / [Your Job Title]
-- 🌱 **Currently Learning:** Advanced Jetpack Compose, Kotlin Multiplatform, and Clean Architecture.
-- 📱 **Specialization:** Android app development with modern tools like Jetpack Compose, Room, Retrofit, Coroutines, and more.
-- ✨ **Interests:** Open-source contributions, app performance optimization, and staying up-to-date with the latest Android trends.
-- 🎯 **Goal:** To build meaningful and impactful apps that solve real-world problems.
+Welcome to my GitHub! I'm an Android developer.
 
 ## 🛠️ Tech Stack
 
@@ -33,22 +25,13 @@ Welcome to my GitHub! I'm an Android developer passionate about crafting intuiti
 
 ## 🌟 Notable Projects
 
-### [Project Name 1](https://github.com/your-username/project-name)
+### [Project Name 1](https://github.com/juanpablorenau/notepad)
 - **Description:** Briefly describe the project, its purpose, and any challenges solved.
 - **Tech Stack:** Highlight the main technologies used.
 
-### [Project Name 2](https://github.com/your-username/project-name)
+### [Project Name 2](https://github.com/juanpablorenau/pokedex)
 - **Description:** Briefly describe the project, its purpose, and any challenges solved.
 - **Tech Stack:** Highlight the main technologies used.
-
-### [Project Name 3](https://github.com/your-username/project-name)
-- **Description:** Briefly describe the project, its purpose, and any challenges solved.
-- **Tech Stack:** Highlight the main technologies used.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🤝 Connect With Me
 
