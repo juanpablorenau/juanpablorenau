@@ -25,11 +25,11 @@ Welcome to my GitHub! I'm an Android developer.
 
 ## 🌟 Notable Projects
 
-### [Project Name 1](https://github.com/juanpablorenau/notepad)
+### [NotePad](https://github.com/juanpablorenau/notepad)
 - **Description:** Briefly describe the project, its purpose, and any challenges solved.
 - **Tech Stack:** Highlight the main technologies used.
 
-### [Project Name 2](https://github.com/juanpablorenau/pokedex)
+### [Pokedex](https://github.com/juanpablorenau/pokedex)
 - **Description:** Briefly describe the project, its purpose, and any challenges solved.
 - **Tech Stack:** Highlight the main technologies used.
 
