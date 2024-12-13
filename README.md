@@ -16,9 +16,9 @@
 ![Hilt](https://img.shields.io/badge/-Hilt-B753E8?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
 ![Flows](https://img.shields.io/badge/-Flows-009688?style=flat-square)
-![Repository Pattern](https://img.shields.io/badge/-Repository-Pattern-009688?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/-Repository_Pattern-009688?style=flat-square)
 ![Animations](https://img.shields.io/badge/-Animations-009688?style=flat-square)
-![Unit Testing](https://img.shields.io/badge/-Unit-Testing-009688?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/-Unit_Testing-009688?style=flat-square)
 
 ### Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
