@@ -1,15 +1,60 @@
 
-<h1 align="center">Android Developer</h1>
+# Hi there! 👋 I'm [Your Name]
 
-#### Development Environment
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+Welcome to my GitHub! I'm an Android developer passionate about crafting intuitive and scalable mobile applications. 🚀
 
-#### Programming Languages:
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+## 👨‍💻 About Me
 
-#### Backend as a Service(BaaS):
-[![Firebase](https://img.shields.io/badge/Firebase-FFC107?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+- 💼 **Current Role:** Freelance Android Developer / [Your Job Title]
+- 🌱 **Currently Learning:** Advanced Jetpack Compose, Kotlin Multiplatform, and Clean Architecture.
+- 📱 **Specialization:** Android app development with modern tools like Jetpack Compose, Room, Retrofit, Coroutines, and more.
+- ✨ **Interests:** Open-source contributions, app performance optimization, and staying up-to-date with the latest Android trends.
+- 🎯 **Goal:** To build meaningful and impactful apps that solve real-world problems.
 
-#### Interface Design Tool
-[![Figma](https://img.shields.io/badge/Figma-E91E63?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+## 🛠️ Tech Stack
+
+### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+
+### Frameworks & Libraries
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=flat-square)
+![Retrofit](https://img.shields.io/badge/-Retrofit-FF5722?style=flat-square)
+![Room](https://img.shields.io/badge/-Room-FFCA28?style=flat-square)
+![Hilt](https://img.shields.io/badge/-Hilt-1A73E8?style=flat-square)
+![Coroutines](https://img.shields.io/badge/-Coroutines-009688?style=flat-square)
+
+### Tools
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+
+## 🌟 Notable Projects
+
+### [Project Name 1](https://github.com/your-username/project-name)
+- **Description:** Briefly describe the project, its purpose, and any challenges solved.
+- **Tech Stack:** Highlight the main technologies used.
+
+### [Project Name 2](https://github.com/your-username/project-name)
+- **Description:** Briefly describe the project, its purpose, and any challenges solved.
+- **Tech Stack:** Highlight the main technologies used.
+
+### [Project Name 3](https://github.com/your-username/project-name)
+- **Description:** Briefly describe the project, its purpose, and any challenges solved.
+- **Tech Stack:** Highlight the main technologies used.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@example.com)
+
+---
+
