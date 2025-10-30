@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Juan Pablo
 
-<img src="https://github.com/user-attachments/assets/e2c92131-e6cb-4eed-9e58-f5f231837eed" style="width: 100%;" />
-
 ## 🌟 Projects
 
 ### [NotePad](https://github.com/juanpablorenau/notepad)
