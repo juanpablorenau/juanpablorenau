@@ -10,7 +10,7 @@
 
 ## 🤝 Connect With Me
 
-[![About me]([https://github.com/juanpablorenau/portfolio](https://juanpablorenau.github.io/portfolio/))]
+[Portfolio](https://juanpablorenau.github.io/portfolio)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/juan-pablo-renau-lópez-9a61a11bb)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:renaujuanpablo@example.com)
