@@ -1,17 +1,23 @@
 # Hi there! 👋 I'm Juan Pablo
 
-## 🌟 Projects
+## About Me
 
-### [NotePad](https://github.com/juanpablorenau/notepad)
-- NotePad is a note-taking app that combines the simplicity and functionalities of the iOS Notes app with the power and customization capabilities of Android.
+Mobile developer passionate about building clean, modern, and user-friendly applications for Android and iOS.
 
-### [Pokedex](https://github.com/juanpablorenau/pokedex)
-- Pokedex is an Android application developed in Kotlin that consumes the PokeAPI to display a list of Pokemon and their details from the TV series.
+### 🛠 Tech Stack
 
-## 🤝 Connect With Me
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase,git,figma" />
+</p>
 
-[Portfolio](https://juanpablorenau.github.io/portfolio)
+## 🚀 Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/juan-pablo-renau-lópez-9a61a11bb)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:renaujuanpablo@example.com)
+<p align="center">
+  <a href="https://juanpablorenau.github.io/portfolio" target="_blank">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/945b0225337909.563440870421b.png" width="120" alt="Portfolio Icon"/>
+  </a>
+</p>
 
+<p align="center">
+  <strong>Click the icon to explore my portfolio</strong>
+</p>
